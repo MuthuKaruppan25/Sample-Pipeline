@@ -1,0 +1,9 @@
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Weather-app
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/appsettings.json
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Weather-app.dll
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Weather-app.deps.json
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Weather-app.runtimeconfig.json
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Weather-app.pdb
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/presidio/Desktop/Tasks/Weather-app/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
